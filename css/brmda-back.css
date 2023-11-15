@@ -1,0 +1,13 @@
+/* Admin notices */
+.brm-notice {
+	display: flex;
+	align-items: center;
+	border-left-color: #fd5c17;
+	box-shadow: 0 0 15px rgb(253, 92, 23, 0.2);
+}
+
+.brm-notice-logo {
+	border: none;
+    margin: 20px 20px 20px 10px;
+    width: 80px;
+}
